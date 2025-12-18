@@ -16,6 +16,12 @@
     </a>
 </p>
 
+## Project Overview
+
+This project demonstrates how to set up a MongoDB database along with a Mongo Express web interface using Kubernetes. The setup includes the necessary components such as Deployments, Services, ConfigMaps, and Secrets to manage the application effectively.
+
+The project was inspired by the [video tutorial](https://youtu.be/X48VuDVv0do?si=Vmw9DeZeMTR0ZUD7&t=4577) from [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) on YouTube and updated to the latest Kubernetes and MongoDB best practices.
+
 ## Prerequisites
 
 To run this example, you need some prerequisites: 
